@@ -1,0 +1,10 @@
+{
+  "name": "shadowpay-prover",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "dependencies": {
+    "snarkjs": "^0.7.5"
+  }
+}
+
