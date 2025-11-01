@@ -376,7 +376,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 ## 🔗 Links
 
 - **API Documentation**: https://registry.scalar.com/@radr/apis/shadowpay-api/latest
-- **GitHub**: https://github.com/Lukey372/ShadowPay
+- **GitHub**: https://github.com/Radrdotfun/shadowpay-python
 - **Test Page**: https://shadow.radr.fun/shadowpay/test-automated-payment.html
 
 ## 💬 Support
